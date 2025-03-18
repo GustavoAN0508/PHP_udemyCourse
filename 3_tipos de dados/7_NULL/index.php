@@ -3,5 +3,5 @@
 $null = null;
 
 if (is_null($null)){
-    echo "ele tá nú";
+    echo "ele tá null";
 }
